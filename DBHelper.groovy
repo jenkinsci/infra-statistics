@@ -23,6 +23,7 @@ class DBHelper {
             db.execute("create table node(instanceid, month, osname, nodenumber)")
             db.execute("create table executor(instanceid, month, numberofexecutors)")
             db.execute("create table importedfile(name)")
+            db.execute("CREATE INDEX plugin_name on plugin (name)")
         }
 
         return db;
