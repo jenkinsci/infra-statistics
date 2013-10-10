@@ -24,6 +24,9 @@ class DBHelper {
             db.execute("create table executor(instanceid, month, numberofexecutors)")
             db.execute("create table importedfile(name)")
             db.execute("CREATE INDEX plugin_name on plugin (name)")
+	    db.execute("CREATE INDEX jenkins_version on jenkins (version)")
+	    db.execute("CREATE INDEX plugin_month on plugin (month)")
+	    db.execute("CREATE INDEX plugin_namemonth on plugin (name,month)")
         }
 
         return db;
