@@ -8,6 +8,8 @@ import org.codehaus.jackson.map.*
 
 import groovy.util.CliBuilder
 import groovy.json.*
+
+import java.time.YearMonth
 import java.util.zip.*;
 
 def parseArgs(cliArgs) {
@@ -36,22 +38,30 @@ def logDir=new File(argResult.logs)
 def outputDir=new File(argResult.output);
 
 if (argResult.incremental) {
-    byMonth=[:] as TreeMap
-    re = /.*log\.([0-9]{6})[0-9]+\.(.*\.)?gz/ 
+    def byMonth=[:] as TreeMap
+    re = /.*log\.([0-9]{6})([0-9]{2})[0-9]+\.(.*\.)?gz/
     logDir.eachFileMatch(~re) { f ->
         m = (f=~re)
-        if (m)  byMonth[m[0][1]] = true;
+        if (m) {
+            if (!byMonth.containsKey(m[0][1])) {
+                byMonth[m[0][1]] = [:]
+            }
+            byMonth[m[0][1]][m[0][2]] = true
+        }
     }
     def data = byMonth.keySet() as List
     println "Found logs: ${data}"
 
-    // do not process the current month as the data may not be complete yet
-    data.pop()
-    data.each { t ->
+    data.each { String t ->
         if (new File(outputDir,"${t}.json.gz").exists()) {
             println "Skipping ${t}.json.gz as it already exists"
         } else {
-            process(t,logDir,outputDir);
+            def days = daysInMonth(t)
+            if (byMonth[t].keySet().size() < days) {
+                println "Skipping ${t} because it's not fully populated yet: ${byMonth[t].keySet().size()} < ${days}"
+            } else {
+                process(t, logDir, outputDir);
+            }
         }
     }
 } else {
@@ -148,4 +158,11 @@ def process(String timestamp/*such as '201112'*/, File logDir, File outputDir) {
     mongoConnection.close()
     mongoDb = ''
     mColl = ''
+}
+
+def daysInMonth(String yearMonth) {
+    def y = Integer.valueOf(yearMonth.substring(0, 4))
+    def m = Integer.valueOf(yearMonth.substring(4, 6))
+
+    return YearMonth.of(y, m).lengthOfMonth()
 }
