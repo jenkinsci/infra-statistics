@@ -1,5 +1,5 @@
 #!/usr/bin/env groovy
-@Grab(group='com.gmongo', module='gmongo', version='0.9')
+@Grab(group='com.gmongo', module='gmongo', version='1.0')
 @Grab(group='org.codehaus.jackson', module='jackson-core-asl', version='1.9.3')
 @Grab(group='org.codehaus.jackson', module='jackson-mapper-asl', version='1.9.3')
 import com.gmongo.GMongo
@@ -115,6 +115,16 @@ def process(String timestamp/*such as '201112'*/, File logDir, File outputDir) {
     def fMap = "function map() { emit(this.install, { insts: [this], count: 1 } ) }"
     def fRed = "function reduce(key, values) { var result = { insts : [], count: 0 }; values.forEach(function(value) { result.insts.push.apply(result.insts, value.insts); result.count += value.count }); return result }"
     mongoDb.tempgroup.drop()
+
+    def aggrOutput = mColl.aggregate([
+            $group: [
+                '_id': [ install: '$install' ],
+                uniqueIds: [ $addToSet: '$_id' ],
+                count: [ $sum: 1 ]
+            ]],
+            [$match: [ count: [ $gte: 2 ]]],
+            [$out: "tempgroup"])
+
     def grouped = null;
     if(uniqIds.size()>0)
         mColl.mapReduce(fMap, fRed, "tempgroup", [:])
@@ -126,14 +136,15 @@ def process(String timestamp/*such as '201112'*/, File logDir, File outputDir) {
         try {
             def builder = new StreamingJsonBuilder(w)
 
-            builder { 
-                mongoDb.tempgroup.find("value.count": [ '$gt': 1 ]).each { g ->
+            builder {
+                mongoDb.tempgroup.find().each { g ->
                     def toSave = []
-                    g.value.insts.each { v ->
+                    g.uniqueIds.each { u ->
+                        def v = mColl.findOne('_id': u)
                         v.remove("_id")
                         toSave << v
                     }
-                    
+
                     "${g.'_id'}" toSave
                 }
             }
