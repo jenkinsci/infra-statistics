@@ -29,6 +29,10 @@ class DBHelper {
             db.execute("CREATE INDEX plugin_namemonth on plugin (name,month)")
         }
 
+        // Disable journaling to prevent "Some kind of disk I/O error occurred"
+        // See http://stackoverflow.com/questions/3979322/exception-message-some-kind-of-disk-i-o-error-occurred
+        db.execute("PRAGMA journal_mode=OFF")
+
         return db;
     }
 
