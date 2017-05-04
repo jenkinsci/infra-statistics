@@ -28,6 +28,11 @@ class NumberCollector {
 
         def dateStr = file.name.substring(0, 6)
         def monthDate = java.util.Date.parse('yyyyMM', dateStr)
+
+        if (monthDate.before(java.util.Date.parse('yyyyMM', "201401"))) {
+            return;
+        }
+
         int records=0;
 
         db.withTransaction({
