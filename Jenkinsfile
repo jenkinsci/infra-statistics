@@ -20,6 +20,8 @@ node('census') {
     /* grab our code from source control */
     checkout scm
 
+    sh "rm -rf *"
+
     String javaHome = tool(name: 'jdk8')
     String groovyHome = tool(name: 'groovy')
 
