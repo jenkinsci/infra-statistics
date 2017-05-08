@@ -4,7 +4,7 @@ import org.sqlite.*
 
 @Grapes([
     @Grab(group='org.codehaus.jackson', module='jackson-mapper-asl', version='1.9.13'),
-    @Grab('org.xerial:sqlite-jdbc:3.7.2'),
+    @Grab('org.xerial:sqlite-jdbc:3.16.1'),
     @GrabConfig(systemClassLoader=true)
 ])
 
@@ -28,6 +28,10 @@ class NumberCollector {
             println "skip $file - already imported..."
             return
         }
+
+	if (monthDate.before(java.util.Date.parse('yyyyMM', "201401"))) {
+	    return;
+	}
 
         def dateStr = file.name.substring(0, 6)
         def monthDate = java.util.Date.parse('yyyyMM', dateStr)

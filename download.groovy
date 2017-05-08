@@ -9,7 +9,7 @@ import groovyx.net.http.HTTPBuilder
     @Grab(group='org.codehaus.jackson', module='jackson-mapper-asl', version='1.9.13'),
     @Grab(group='org.codehaus.groovy.modules.http-builder', module='http-builder', version='0.5.2'),
     @Grab(group='org.apache.ant', module='ant', version='1.8.1'),
-    @Grab(group='org.xerial', module='sqlite-jdbc', version='3.7.2'),
+    @Grab(group='org.xerial', module='sqlite-jdbc', version='3.16.1'),
     @GrabExclude('xml-apis:xml-apis'),
     @GrabConfig(systemClassLoader=true)
 ])
