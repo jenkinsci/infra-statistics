@@ -21,9 +21,6 @@ class NumberCollector {
 
     def generateStats(File file) {
 
-        def dir = this.workingDir + "/target"
-        "rm -rf $dir".execute()
-
         if(!DBHelper.doImport(db, file.name)){
             println "skip $file - already imported..."
             return
