@@ -26,10 +26,6 @@ class NumberCollector {
             return
         }
 
-	if (monthDate.before(java.util.Date.parse('yyyyMM', "201401"))) {
-	    return;
-	}
-
         def dateStr = file.name.substring(0, 6)
         def monthDate = java.util.Date.parse('yyyyMM', dateStr)
 
