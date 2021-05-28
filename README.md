@@ -6,7 +6,7 @@ Jenkins Usage Statistics
 These scripts generate various data from existing census JSON files collected by the jenkins.io infrastructure.
 More specifically:
 
-- http://stats.jenkins-ci.org/
+- http://stats.jenkins.io/
 - data used by the ['jenkins-plugin-info' confluence macro](https://github.com/jenkinsci/backend-jenkins-plugin-info-plugin)
 
 ## WHAT
@@ -15,7 +15,7 @@ More specifically:
 this scipts will create the following files:
 
 * multiple SVG graphics showing different statistcs about the usage of jenkins
-* a file `<plugin-name>.stats.json`for every plugin, containing the following data (example: git-plugin - [git.stats.json](http://stats.jenkins-ci.org/plugin-installation-trend/git.stats.json) ):
+* a file `<plugin-name>.stats.json`for every plugin, containing the following data (example: git-plugin - [git.stats.json](http://stats.jenkins.io/plugin-installation-trend/git.stats.json) ):
 
   * `name`: the name of the plugin (as used in the filename)
   * `installations`: the number of installations for a given month
