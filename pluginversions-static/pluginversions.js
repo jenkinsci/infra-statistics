@@ -9,7 +9,7 @@ function parseData(versionData, name) {
     var totalInstalls = 0
 
     for (var pluginVersion in versionData) {
-        if (/^\d[\d.]*\d$/.test(pluginVersion)) {
+        if (/^\d[\w.]*\w$/.test(pluginVersion)) {
             pluginVersionsSet.add(pluginVersion);
             if (!totalInstallsPerPluginVersion.has(pluginVersion)) {
                 totalInstallsPerPluginVersion[pluginVersion] = 0;
