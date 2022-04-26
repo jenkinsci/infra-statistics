@@ -105,7 +105,7 @@ class JenkinsMetricParser {
 
                                 jsonNode.get("nodes").each {
 
-                                    if (BooleanNode.TRUE.equals(it.get("master"))) { // See https://git.io/vPA8J
+                                    if (BooleanNode.TRUE.equals(it.get("master"))) { // See https://github.com/batmat/jenkins/blob/9303136c9d4e5f8fedfac2cd3cf78c10b677298d/core/src/main/java/hudson/model/UsageStatistics.java#L138
                                         masterJvm = new InstanceJVM(
                                             vendor: it.get("jvm-vendor")?.textValue,
                                             name: it.get("jvm-name")?.textValue,
