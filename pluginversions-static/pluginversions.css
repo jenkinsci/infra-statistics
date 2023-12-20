@@ -4,15 +4,27 @@ body, table {
 
 table {
     border-collapse: collapse;
+    border: 2px solid #333;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    
+    
 }
 
 thead th, tfoot th, tfoot td {
     position: sticky;
     background-color: aquamarine;
+    font-size: 1.2em;
+    font-weight: bold;
+    transition: background-color 0.3s ease;
 }
 
 thead th {
     top: 0;
+
+
+}
+tr:hover {
+    background-color: #ffa;
 }
 
 tfoot th, tfoot td {
@@ -23,6 +35,7 @@ table td, table th {
     text-align: center;
     padding: 3px 6px;
     border: 0;
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.2);
 }
 
 tr:nth-child(odd) {
