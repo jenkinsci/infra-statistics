@@ -54,10 +54,6 @@
         "1711929600000": 0.0003451656,
         "1714521600000": 0.0003520631
     },
-    "installationsPerVersion": {
-        "1.038.va_c2181133b_79": 1
-    },
-    "installationsPercentagePerVersion": {
-        "1.038.va_c2181133b_79": 0.0003520631
-    }
+    "installationsPerVersion": {},
+    "installationsPercentagePerVersion": {}
 }

@@ -1,0 +1,15 @@
+{
+    "name": "xygeni-sensor",
+    "installations": {
+        "1717200000000": 2
+    },
+    "installationsPercentage": {
+        "1717200000000": 0.00070848624
+    },
+    "installationsPerVersion": {
+        "1.3": 2
+    },
+    "installationsPercentagePerVersion": {
+        "1.3": 0.00070848624
+    }
+}

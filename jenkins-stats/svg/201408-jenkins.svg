@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" version="1.1" preserveAspectRatio="xMidYMid meet" viewBox="0 0 3530 1200.3">
   <rect fill="blue" height="0.1" stroke="black" width="12" x="15" y="900.2"/>
-  <text x="15" y="905.3" font-family="Tahoma" font-size="12" transform="rotate(90 15,905.3)" text-rendering="optimizeSpeed" fill="#000000">1.0 (1)</text>
+  <text x="15" y="905.3" font-family="Tahoma" font-size="12" transform="rotate(90 15,905.3)" text-rendering="optimizeSpeed" fill="#000000">1.0.0 (1)</text>
   <rect fill="blue" height="0.1" stroke="black" width="12" x="30" y="900.2"/>
-  <text x="30" y="905.3" font-family="Tahoma" font-size="12" transform="rotate(90 30,905.3)" text-rendering="optimizeSpeed" fill="#000000">1.0.0 (1)</text>
+  <text x="30" y="905.3" font-family="Tahoma" font-size="12" transform="rotate(90 30,905.3)" text-rendering="optimizeSpeed" fill="#000000">1.0 (1)</text>
   <rect fill="blue" height="0.7" stroke="black" width="12" x="45" y="899.6"/>
   <text x="45" y="905.3" font-family="Tahoma" font-size="12" transform="rotate(90 45,905.3)" text-rendering="optimizeSpeed" fill="#000000">1.396 (7)</text>
   <rect fill="blue" height="0.6" stroke="black" width="12" x="60" y="899.7"/>
@@ -335,16 +335,16 @@
   <text x="2505" y="905.3" font-family="Tahoma" font-size="12" transform="rotate(90 2505,905.3)" text-rendering="optimizeSpeed" fill="#000000">1.532.1.JENKINS-19453 (2)</text>
   <rect fill="blue" height="0.1" stroke="black" width="12" x="2520" y="900.2"/>
   <text x="2520" y="905.3" font-family="Tahoma" font-size="12" transform="rotate(90 2520,905.3)" text-rendering="optimizeSpeed" fill="#000000">1.532.2-AMADEUS-2 (1)</text>
-  <rect fill="blue" height="0.1" stroke="black" width="12" x="2535" y="900.2"/>
-  <text x="2535" y="905.3" font-family="Tahoma" font-size="12" transform="rotate(90 2535,905.3)" text-rendering="optimizeSpeed" fill="#000000">1.532.2-nokia_lte_macps-2 (1)</text>
+  <rect fill="blue" height="89.4" stroke="black" width="12" x="2535" y="810.9"/>
+  <text x="2535" y="905.3" font-family="Tahoma" font-size="12" transform="rotate(90 2535,905.3)" text-rendering="optimizeSpeed" fill="#000000">1.532.2 (894)</text>
   <rect fill="blue" height="0.1" stroke="black" width="12" x="2550" y="900.2"/>
-  <text x="2550" y="905.3" font-family="Tahoma" font-size="12" transform="rotate(90 2550,905.3)" text-rendering="optimizeSpeed" fill="#000000">1.532.2-nsn-lte-macps (1)</text>
-  <rect fill="blue" height="0.2" stroke="black" width="12" x="2565" y="900.1"/>
-  <text x="2565" y="905.3" font-family="Tahoma" font-size="12" transform="rotate(90 2565,905.3)" text-rendering="optimizeSpeed" fill="#000000">1.532.2-somc-1 (2)</text>
-  <rect fill="blue" height="0.3" stroke="black" width="12" x="2580" y="900.0"/>
-  <text x="2580" y="905.3" font-family="Tahoma" font-size="12" transform="rotate(90 2580,905.3)" text-rendering="optimizeSpeed" fill="#000000">1.532.2-somc-2 (3)</text>
-  <rect fill="blue" height="89.4" stroke="black" width="12" x="2595" y="810.9"/>
-  <text x="2595" y="905.3" font-family="Tahoma" font-size="12" transform="rotate(90 2595,905.3)" text-rendering="optimizeSpeed" fill="#000000">1.532.2 (894)</text>
+  <text x="2550" y="905.3" font-family="Tahoma" font-size="12" transform="rotate(90 2550,905.3)" text-rendering="optimizeSpeed" fill="#000000">1.532.2-nokia_lte_macps-2 (1)</text>
+  <rect fill="blue" height="0.1" stroke="black" width="12" x="2565" y="900.2"/>
+  <text x="2565" y="905.3" font-family="Tahoma" font-size="12" transform="rotate(90 2565,905.3)" text-rendering="optimizeSpeed" fill="#000000">1.532.2-nsn-lte-macps (1)</text>
+  <rect fill="blue" height="0.2" stroke="black" width="12" x="2580" y="900.1"/>
+  <text x="2580" y="905.3" font-family="Tahoma" font-size="12" transform="rotate(90 2580,905.3)" text-rendering="optimizeSpeed" fill="#000000">1.532.2-somc-1 (2)</text>
+  <rect fill="blue" height="0.3" stroke="black" width="12" x="2595" y="900.0"/>
+  <text x="2595" y="905.3" font-family="Tahoma" font-size="12" transform="rotate(90 2595,905.3)" text-rendering="optimizeSpeed" fill="#000000">1.532.2-somc-2 (3)</text>
   <rect fill="blue" height="0.1" stroke="black" width="12" x="2610" y="900.2"/>
   <text x="2610" y="905.3" font-family="Tahoma" font-size="12" transform="rotate(90 2610,905.3)" text-rendering="optimizeSpeed" fill="#000000">1.532.2_2 (1)</text>
   <rect fill="blue" height="0.1" stroke="black" width="12" x="2625" y="900.2"/>

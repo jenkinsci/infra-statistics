@@ -1,0 +1,15 @@
+{
+    "name": "opentelemetry-api",
+    "installations": {
+        "1717200000000": 2
+    },
+    "installationsPercentage": {
+        "1717200000000": 0.00070848624
+    },
+    "installationsPerVersion": {
+        "1.39.0-8.vfb_39d89a_2812": 2
+    },
+    "installationsPercentagePerVersion": {
+        "1.39.0-8.vfb_39d89a_2812": 0.00070848624
+    }
+}

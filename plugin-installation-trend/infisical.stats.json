@@ -1,15 +1,17 @@
 {
     "name": "infisical",
     "installations": {
-        "1714521600000": 5
+        "1714521600000": 5,
+        "1717200000000": 9
     },
     "installationsPercentage": {
-        "1714521600000": 0.0017603155
+        "1714521600000": 0.0017603155,
+        "1717200000000": 0.0031881882
     },
     "installationsPerVersion": {
-        "29.va_e0dc5ca_b_8fa_": 5
+        "29.va_e0dc5ca_b_8fa_": 9
     },
     "installationsPercentagePerVersion": {
-        "29.va_e0dc5ca_b_8fa_": 0.0017603155
+        "29.va_e0dc5ca_b_8fa_": 0.0031881882
     }
 }

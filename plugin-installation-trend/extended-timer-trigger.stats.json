@@ -1,15 +1,17 @@
 {
     "name": "extended-timer-trigger",
     "installations": {
-        "1714521600000": 7
+        "1714521600000": 7,
+        "1717200000000": 13
     },
     "installationsPercentage": {
-        "1714521600000": 0.0024644416
+        "1714521600000": 0.0024644416,
+        "1717200000000": 0.0046051606
     },
     "installationsPerVersion": {
-        "16.va_f693b_a_f344c": 7
+        "16.va_f693b_a_f344c": 13
     },
     "installationsPercentagePerVersion": {
-        "16.va_f693b_a_f344c": 0.0024644416
+        "16.va_f693b_a_f344c": 0.0046051606
     }
 }

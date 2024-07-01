@@ -2,16 +2,20 @@
     "name": "jobcacher-artifactory-storage",
     "installations": {
         "1711929600000": 9,
-        "1714521600000": 18
+        "1714521600000": 18,
+        "1717200000000": 25
     },
     "installationsPercentage": {
         "1711929600000": 0.0031064905,
-        "1714521600000": 0.0063371356
+        "1714521600000": 0.0063371356,
+        "1717200000000": 0.008856078
     },
     "installationsPerVersion": {
-        "29.v5cfe1a_a_ef755": 18
+        "29.v5cfe1a_a_ef755": 13,
+        "51.v06da_175e2655": 12
     },
     "installationsPercentagePerVersion": {
-        "29.v5cfe1a_a_ef755": 0.0063371356
+        "29.v5cfe1a_a_ef755": 0.0046051606,
+        "51.v06da_175e2655": 0.0042509176
     }
 }

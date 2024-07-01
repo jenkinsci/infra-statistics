@@ -1,0 +1,15 @@
+{
+    "name": "artifactory-client-api",
+    "installations": {
+        "1717200000000": 85
+    },
+    "installationsPercentage": {
+        "1717200000000": 0.030110665
+    },
+    "installationsPerVersion": {
+        "2.17.0-7.ve5ccd925a_234": 85
+    },
+    "installationsPercentagePerVersion": {
+        "2.17.0-7.ve5ccd925a_234": 0.030110665
+    }
+}

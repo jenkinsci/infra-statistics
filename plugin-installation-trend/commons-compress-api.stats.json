@@ -1,0 +1,17 @@
+{
+    "name": "commons-compress-api",
+    "installations": {
+        "1717200000000": 2704
+    },
+    "installationsPercentage": {
+        "1717200000000": 0.9578734
+    },
+    "installationsPerVersion": {
+        "1.26.1-1": 16,
+        "1.26.1-2": 2688
+    },
+    "installationsPercentagePerVersion": {
+        "1.26.1-1": 0.00566789,
+        "1.26.1-2": 0.95220554
+    }
+}

@@ -651,196 +651,196 @@
   <text x="4875" y="2112.8" font-family="Tahoma" font-size="12" transform="rotate(90 4875,2112.8)" text-rendering="optimizeSpeed" fill="#000000">2.0 (608)</text>
   <rect fill="blue" height="33.8" stroke="black" width="12" x="4890" y="2074.0"/>
   <text x="4890" y="2112.8" font-family="Tahoma" font-size="12" transform="rotate(90 4890,2112.8)" text-rendering="optimizeSpeed" fill="#000000">2.1 (338)</text>
-  <rect fill="blue" height="2.0" stroke="black" width="12" x="4905" y="2105.8"/>
-  <text x="4905" y="2112.8" font-family="Tahoma" font-size="12" transform="rotate(90 4905,2112.8)" text-rendering="optimizeSpeed" fill="#000000">2.19.3.1-rolling (20)</text>
-  <rect fill="blue" height="0.1" stroke="black" width="12" x="4920" y="2107.7"/>
-  <text x="4920" y="2112.8" font-family="Tahoma" font-size="12" transform="rotate(90 4920,2112.8)" text-rendering="optimizeSpeed" fill="#000000">2.19.4.1 (1)</text>
-  <rect fill="blue" height="6.7" stroke="black" width="12" x="4935" y="2101.1"/>
-  <text x="4935" y="2112.8" font-family="Tahoma" font-size="12" transform="rotate(90 4935,2112.8)" text-rendering="optimizeSpeed" fill="#000000">2.19.4.2-rolling (67)</text>
-  <rect fill="blue" height="24.6" stroke="black" width="12" x="4950" y="2083.2"/>
-  <text x="4950" y="2112.8" font-family="Tahoma" font-size="12" transform="rotate(90 4950,2112.8)" text-rendering="optimizeSpeed" fill="#000000">2.2 (246)</text>
-  <rect fill="blue" height="28.2" stroke="black" width="12" x="4965" y="2079.6"/>
-  <text x="4965" y="2112.8" font-family="Tahoma" font-size="12" transform="rotate(90 4965,2112.8)" text-rendering="optimizeSpeed" fill="#000000">2.3 (282)</text>
-  <rect fill="blue" height="2.6" stroke="black" width="12" x="4980" y="2105.2"/>
-  <text x="4980" y="2112.8" font-family="Tahoma" font-size="12" transform="rotate(90 4980,2112.8)" text-rendering="optimizeSpeed" fill="#000000">2.32.1.1-rolling (26)</text>
-  <rect fill="blue" height="1.2" stroke="black" width="12" x="4995" y="2106.6"/>
-  <text x="4995" y="2112.8" font-family="Tahoma" font-size="12" transform="rotate(90 4995,2112.8)" text-rendering="optimizeSpeed" fill="#000000">2.32.2.1 (12)</text>
-  <rect fill="blue" height="6.8" stroke="black" width="12" x="5010" y="2101.0"/>
-  <text x="5010" y="2112.8" font-family="Tahoma" font-size="12" transform="rotate(90 5010,2112.8)" text-rendering="optimizeSpeed" fill="#000000">2.32.2.1-rolling (68)</text>
-  <rect fill="blue" height="4.5" stroke="black" width="12" x="5025" y="2103.3"/>
-  <text x="5025" y="2112.8" font-family="Tahoma" font-size="12" transform="rotate(90 5025,2112.8)" text-rendering="optimizeSpeed" fill="#000000">2.32.2.6 (45)</text>
-  <rect fill="blue" height="2.2" stroke="black" width="12" x="5040" y="2105.6"/>
-  <text x="5040" y="2112.8" font-family="Tahoma" font-size="12" transform="rotate(90 5040,2112.8)" text-rendering="optimizeSpeed" fill="#000000">2.32.2.6-rolling (22)</text>
-  <rect fill="blue" height="4.0" stroke="black" width="12" x="5055" y="2103.8"/>
-  <text x="5055" y="2112.8" font-family="Tahoma" font-size="12" transform="rotate(90 5055,2112.8)" text-rendering="optimizeSpeed" fill="#000000">2.32.2.7 (40)</text>
-  <rect fill="blue" height="1.2" stroke="black" width="12" x="5070" y="2106.6"/>
-  <text x="5070" y="2112.8" font-family="Tahoma" font-size="12" transform="rotate(90 5070,2112.8)" text-rendering="optimizeSpeed" fill="#000000">2.32.2.7-rolling (12)</text>
-  <rect fill="blue" height="6.1" stroke="black" width="12" x="5085" y="2101.7"/>
-  <text x="5085" y="2112.8" font-family="Tahoma" font-size="12" transform="rotate(90 5085,2112.8)" text-rendering="optimizeSpeed" fill="#000000">2.32.3.1 (61)</text>
-  <rect fill="blue" height="3.8" stroke="black" width="12" x="5100" y="2104.0"/>
-  <text x="5100" y="2112.8" font-family="Tahoma" font-size="12" transform="rotate(90 5100,2112.8)" text-rendering="optimizeSpeed" fill="#000000">2.32.3.2 (38)</text>
-  <rect fill="blue" height="7.1" stroke="black" width="12" x="5115" y="2100.7"/>
-  <text x="5115" y="2112.8" font-family="Tahoma" font-size="12" transform="rotate(90 5115,2112.8)" text-rendering="optimizeSpeed" fill="#000000">2.4 (71)</text>
-  <rect fill="blue" height="29.1" stroke="black" width="12" x="5130" y="2078.7"/>
-  <text x="5130" y="2112.8" font-family="Tahoma" font-size="12" transform="rotate(90 5130,2112.8)" text-rendering="optimizeSpeed" fill="#000000">2.46.2.1 (291)</text>
-  <rect fill="blue" height="0.3" stroke="black" width="12" x="5145" y="2107.5"/>
-  <text x="5145" y="2112.8" font-family="Tahoma" font-size="12" transform="rotate(90 5145,2112.8)" text-rendering="optimizeSpeed" fill="#000000">2.46.3.1 (3)</text>
-  <rect fill="blue" height="30.5" stroke="black" width="12" x="5160" y="2077.3"/>
-  <text x="5160" y="2112.8" font-family="Tahoma" font-size="12" transform="rotate(90 5160,2112.8)" text-rendering="optimizeSpeed" fill="#000000">2.5 (305)</text>
-  <rect fill="blue" height="39.1" stroke="black" width="12" x="5175" y="2068.7"/>
-  <text x="5175" y="2112.8" font-family="Tahoma" font-size="12" transform="rotate(90 5175,2112.8)" text-rendering="optimizeSpeed" fill="#000000">2.6 (391)</text>
-  <rect fill="blue" height="53.9" stroke="black" width="12" x="5190" y="2053.9"/>
-  <text x="5190" y="2112.8" font-family="Tahoma" font-size="12" transform="rotate(90 5190,2112.8)" text-rendering="optimizeSpeed" fill="#000000">2.7 (539)</text>
-  <rect fill="blue" height="185.1" stroke="black" width="12" x="5205" y="1922.7"/>
-  <text x="5205" y="2112.8" font-family="Tahoma" font-size="12" transform="rotate(90 5205,2112.8)" text-rendering="optimizeSpeed" fill="#000000">2.7.1 (1851)</text>
-  <rect fill="blue" height="0.1" stroke="black" width="12" x="5220" y="2107.7"/>
-  <text x="5220" y="2112.8" font-family="Tahoma" font-size="12" transform="rotate(90 5220,2112.8)" text-rendering="optimizeSpeed" fill="#000000">2.7.2-continental (1)</text>
-  <rect fill="blue" height="177.0" stroke="black" width="12" x="5235" y="1930.8"/>
-  <text x="5235" y="2112.8" font-family="Tahoma" font-size="12" transform="rotate(90 5235,2112.8)" text-rendering="optimizeSpeed" fill="#000000">2.7.2 (1770)</text>
-  <rect fill="blue" height="0.1" stroke="black" width="12" x="5250" y="2107.7"/>
-  <text x="5250" y="2112.8" font-family="Tahoma" font-size="12" transform="rotate(90 5250,2112.8)" text-rendering="optimizeSpeed" fill="#000000">2.7.2.1 (1)</text>
-  <rect fill="blue" height="72.4" stroke="black" width="12" x="5265" y="2035.4"/>
-  <text x="5265" y="2112.8" font-family="Tahoma" font-size="12" transform="rotate(90 5265,2112.8)" text-rendering="optimizeSpeed" fill="#000000">2.7.3 (724)</text>
-  <rect fill="blue" height="272.4" stroke="black" width="12" x="5280" y="1835.4"/>
-  <text x="5280" y="2112.8" font-family="Tahoma" font-size="12" transform="rotate(90 5280,2112.8)" text-rendering="optimizeSpeed" fill="#000000">2.7.4 (2724)</text>
-  <rect fill="blue" height="0.5" stroke="black" width="12" x="5295" y="2107.3"/>
-  <text x="5295" y="2112.8" font-family="Tahoma" font-size="12" transform="rotate(90 5295,2112.8)" text-rendering="optimizeSpeed" fill="#000000">2.7.20 (5)</text>
-  <rect fill="blue" height="61.7" stroke="black" width="12" x="5310" y="2046.1"/>
-  <text x="5310" y="2112.8" font-family="Tahoma" font-size="12" transform="rotate(90 5310,2112.8)" text-rendering="optimizeSpeed" fill="#000000">2.8 (617)</text>
-  <rect fill="blue" height="72.5" stroke="black" width="12" x="5325" y="2035.3"/>
-  <text x="5325" y="2112.8" font-family="Tahoma" font-size="12" transform="rotate(90 5325,2112.8)" text-rendering="optimizeSpeed" fill="#000000">2.9 (725)</text>
-  <rect fill="blue" height="39.4" stroke="black" width="12" x="5340" y="2068.4"/>
-  <text x="5340" y="2112.8" font-family="Tahoma" font-size="12" transform="rotate(90 5340,2112.8)" text-rendering="optimizeSpeed" fill="#000000">2.10 (394)</text>
-  <rect fill="blue" height="47.5" stroke="black" width="12" x="5355" y="2060.3"/>
-  <text x="5355" y="2112.8" font-family="Tahoma" font-size="12" transform="rotate(90 5355,2112.8)" text-rendering="optimizeSpeed" fill="#000000">2.11 (475)</text>
-  <rect fill="blue" height="24.1" stroke="black" width="12" x="5370" y="2083.7"/>
-  <text x="5370" y="2112.8" font-family="Tahoma" font-size="12" transform="rotate(90 5370,2112.8)" text-rendering="optimizeSpeed" fill="#000000">2.12 (241)</text>
-  <rect fill="blue" height="32.1" stroke="black" width="12" x="5385" y="2075.7"/>
-  <text x="5385" y="2112.8" font-family="Tahoma" font-size="12" transform="rotate(90 5385,2112.8)" text-rendering="optimizeSpeed" fill="#000000">2.13 (321)</text>
-  <rect fill="blue" height="30.1" stroke="black" width="12" x="5400" y="2077.7"/>
-  <text x="5400" y="2112.8" font-family="Tahoma" font-size="12" transform="rotate(90 5400,2112.8)" text-rendering="optimizeSpeed" fill="#000000">2.14 (301)</text>
-  <rect fill="blue" height="29.5" stroke="black" width="12" x="5415" y="2078.3"/>
-  <text x="5415" y="2112.8" font-family="Tahoma" font-size="12" transform="rotate(90 5415,2112.8)" text-rendering="optimizeSpeed" fill="#000000">2.15 (295)</text>
-  <rect fill="blue" height="28.3" stroke="black" width="12" x="5430" y="2079.5"/>
-  <text x="5430" y="2112.8" font-family="Tahoma" font-size="12" transform="rotate(90 5430,2112.8)" text-rendering="optimizeSpeed" fill="#000000">2.16 (283)</text>
-  <rect fill="blue" height="35.5" stroke="black" width="12" x="5445" y="2072.3"/>
-  <text x="5445" y="2112.8" font-family="Tahoma" font-size="12" transform="rotate(90 5445,2112.8)" text-rendering="optimizeSpeed" fill="#000000">2.17 (355)</text>
-  <rect fill="blue" height="22.4" stroke="black" width="12" x="5460" y="2085.4"/>
-  <text x="5460" y="2112.8" font-family="Tahoma" font-size="12" transform="rotate(90 5460,2112.8)" text-rendering="optimizeSpeed" fill="#000000">2.18 (224)</text>
-  <rect fill="blue" height="37.3" stroke="black" width="12" x="5475" y="2070.5"/>
-  <text x="5475" y="2112.8" font-family="Tahoma" font-size="12" transform="rotate(90 5475,2112.8)" text-rendering="optimizeSpeed" fill="#000000">2.19 (373)</text>
-  <rect fill="blue" height="224.2" stroke="black" width="12" x="5490" y="1883.6"/>
-  <text x="5490" y="2112.8" font-family="Tahoma" font-size="12" transform="rotate(90 5490,2112.8)" text-rendering="optimizeSpeed" fill="#000000">2.19.1 (2242)</text>
-  <rect fill="blue" height="116.2" stroke="black" width="12" x="5505" y="1991.6"/>
-  <text x="5505" y="2112.8" font-family="Tahoma" font-size="12" transform="rotate(90 5505,2112.8)" text-rendering="optimizeSpeed" fill="#000000">2.19.2 (1162)</text>
-  <rect fill="blue" height="117.2" stroke="black" width="12" x="5520" y="1990.6"/>
-  <text x="5520" y="2112.8" font-family="Tahoma" font-size="12" transform="rotate(90 5520,2112.8)" text-rendering="optimizeSpeed" fill="#000000">2.19.3 (1172)</text>
-  <rect fill="blue" height="266.2" stroke="black" width="12" x="5535" y="1841.6"/>
-  <text x="5535" y="2112.8" font-family="Tahoma" font-size="12" transform="rotate(90 5535,2112.8)" text-rendering="optimizeSpeed" fill="#000000">2.19.4 (2662)</text>
-  <rect fill="blue" height="31.4" stroke="black" width="12" x="5550" y="2076.4"/>
-  <text x="5550" y="2112.8" font-family="Tahoma" font-size="12" transform="rotate(90 5550,2112.8)" text-rendering="optimizeSpeed" fill="#000000">2.20 (314)</text>
-  <rect fill="blue" height="30.5" stroke="black" width="12" x="5565" y="2077.3"/>
-  <text x="5565" y="2112.8" font-family="Tahoma" font-size="12" transform="rotate(90 5565,2112.8)" text-rendering="optimizeSpeed" fill="#000000">2.21 (305)</text>
-  <rect fill="blue" height="30.2" stroke="black" width="12" x="5580" y="2077.6"/>
-  <text x="5580" y="2112.8" font-family="Tahoma" font-size="12" transform="rotate(90 5580,2112.8)" text-rendering="optimizeSpeed" fill="#000000">2.22 (302)</text>
-  <rect fill="blue" height="70.6" stroke="black" width="12" x="5595" y="2037.2"/>
-  <text x="5595" y="2112.8" font-family="Tahoma" font-size="12" transform="rotate(90 5595,2112.8)" text-rendering="optimizeSpeed" fill="#000000">2.23 (706)</text>
-  <rect fill="blue" height="24.5" stroke="black" width="12" x="5610" y="2083.3"/>
-  <text x="5610" y="2112.8" font-family="Tahoma" font-size="12" transform="rotate(90 5610,2112.8)" text-rendering="optimizeSpeed" fill="#000000">2.24 (245)</text>
-  <rect fill="blue" height="33.7" stroke="black" width="12" x="5625" y="2074.1"/>
-  <text x="5625" y="2112.8" font-family="Tahoma" font-size="12" transform="rotate(90 5625,2112.8)" text-rendering="optimizeSpeed" fill="#000000">2.25 (337)</text>
-  <rect fill="blue" height="33.9" stroke="black" width="12" x="5640" y="2073.9"/>
-  <text x="5640" y="2112.8" font-family="Tahoma" font-size="12" transform="rotate(90 5640,2112.8)" text-rendering="optimizeSpeed" fill="#000000">2.26 (339)</text>
-  <rect fill="blue" height="47.1" stroke="black" width="12" x="5655" y="2060.7"/>
-  <text x="5655" y="2112.8" font-family="Tahoma" font-size="12" transform="rotate(90 5655,2112.8)" text-rendering="optimizeSpeed" fill="#000000">2.27 (471)</text>
-  <rect fill="blue" height="27.0" stroke="black" width="12" x="5670" y="2080.8"/>
-  <text x="5670" y="2112.8" font-family="Tahoma" font-size="12" transform="rotate(90 5670,2112.8)" text-rendering="optimizeSpeed" fill="#000000">2.28 (270)</text>
-  <rect fill="blue" height="6.5" stroke="black" width="12" x="5685" y="2101.3"/>
-  <text x="5685" y="2112.8" font-family="Tahoma" font-size="12" transform="rotate(90 5685,2112.8)" text-rendering="optimizeSpeed" fill="#000000">2.29 (65)</text>
-  <rect fill="blue" height="45.1" stroke="black" width="12" x="5700" y="2062.7"/>
-  <text x="5700" y="2112.8" font-family="Tahoma" font-size="12" transform="rotate(90 5700,2112.8)" text-rendering="optimizeSpeed" fill="#000000">2.30 (451)</text>
-  <rect fill="blue" height="12.9" stroke="black" width="12" x="5715" y="2094.9"/>
-  <text x="5715" y="2112.8" font-family="Tahoma" font-size="12" transform="rotate(90 5715,2112.8)" text-rendering="optimizeSpeed" fill="#000000">2.31 (129)</text>
-  <rect fill="blue" height="30.8" stroke="black" width="12" x="5730" y="2077.0"/>
-  <text x="5730" y="2112.8" font-family="Tahoma" font-size="12" transform="rotate(90 5730,2112.8)" text-rendering="optimizeSpeed" fill="#000000">2.32 (308)</text>
-  <rect fill="blue" height="324.8" stroke="black" width="12" x="5745" y="1783.0"/>
-  <text x="5745" y="2112.8" font-family="Tahoma" font-size="12" transform="rotate(90 5745,2112.8)" text-rendering="optimizeSpeed" fill="#000000">2.32.1 (3248)</text>
-  <rect fill="blue" height="381.0" stroke="black" width="12" x="5760" y="1726.8"/>
-  <text x="5760" y="2112.8" font-family="Tahoma" font-size="12" transform="rotate(90 5760,2112.8)" text-rendering="optimizeSpeed" fill="#000000">2.32.2 (3810)</text>
-  <rect fill="blue" height="0.1" stroke="black" width="12" x="5775" y="2107.7"/>
-  <text x="5775" y="2112.8" font-family="Tahoma" font-size="12" transform="rotate(90 5775,2112.8)" text-rendering="optimizeSpeed" fill="#000000">2.32.3-INFONOVA-1 (1)</text>
-  <rect fill="blue" height="482.3" stroke="black" width="12" x="5790" y="1625.5"/>
-  <text x="5790" y="2112.8" font-family="Tahoma" font-size="12" transform="rotate(90 5790,2112.8)" text-rendering="optimizeSpeed" fill="#000000">2.32.3 (4823)</text>
-  <rect fill="blue" height="41.1" stroke="black" width="12" x="5805" y="2066.7"/>
-  <text x="5805" y="2112.8" font-family="Tahoma" font-size="12" transform="rotate(90 5805,2112.8)" text-rendering="optimizeSpeed" fill="#000000">2.33 (411)</text>
-  <rect fill="blue" height="46.5" stroke="black" width="12" x="5820" y="2061.3"/>
-  <text x="5820" y="2112.8" font-family="Tahoma" font-size="12" transform="rotate(90 5820,2112.8)" text-rendering="optimizeSpeed" fill="#000000">2.34 (465)</text>
-  <rect fill="blue" height="51.2" stroke="black" width="12" x="5835" y="2056.6"/>
-  <text x="5835" y="2112.8" font-family="Tahoma" font-size="12" transform="rotate(90 5835,2112.8)" text-rendering="optimizeSpeed" fill="#000000">2.35 (512)</text>
-  <rect fill="blue" height="42.3" stroke="black" width="12" x="5850" y="2065.5"/>
-  <text x="5850" y="2112.8" font-family="Tahoma" font-size="12" transform="rotate(90 5850,2112.8)" text-rendering="optimizeSpeed" fill="#000000">2.36 (423)</text>
-  <rect fill="blue" height="50.5" stroke="black" width="12" x="5865" y="2057.3"/>
-  <text x="5865" y="2112.8" font-family="Tahoma" font-size="12" transform="rotate(90 5865,2112.8)" text-rendering="optimizeSpeed" fill="#000000">2.37 (505)</text>
-  <rect fill="blue" height="44.3" stroke="black" width="12" x="5880" y="2063.5"/>
-  <text x="5880" y="2112.8" font-family="Tahoma" font-size="12" transform="rotate(90 5880,2112.8)" text-rendering="optimizeSpeed" fill="#000000">2.38 (443)</text>
-  <rect fill="blue" height="58.5" stroke="black" width="12" x="5895" y="2049.3"/>
-  <text x="5895" y="2112.8" font-family="Tahoma" font-size="12" transform="rotate(90 5895,2112.8)" text-rendering="optimizeSpeed" fill="#000000">2.39 (585)</text>
-  <rect fill="blue" height="60.5" stroke="black" width="12" x="5910" y="2047.3"/>
-  <text x="5910" y="2112.8" font-family="Tahoma" font-size="12" transform="rotate(90 5910,2112.8)" text-rendering="optimizeSpeed" fill="#000000">2.40 (605)</text>
-  <rect fill="blue" height="49.4" stroke="black" width="12" x="5925" y="2058.4"/>
-  <text x="5925" y="2112.8" font-family="Tahoma" font-size="12" transform="rotate(90 5925,2112.8)" text-rendering="optimizeSpeed" fill="#000000">2.41 (494)</text>
-  <rect fill="blue" height="41.6" stroke="black" width="12" x="5940" y="2066.2"/>
-  <text x="5940" y="2112.8" font-family="Tahoma" font-size="12" transform="rotate(90 5940,2112.8)" text-rendering="optimizeSpeed" fill="#000000">2.42 (416)</text>
-  <rect fill="blue" height="23.4" stroke="black" width="12" x="5955" y="2084.4"/>
-  <text x="5955" y="2112.8" font-family="Tahoma" font-size="12" transform="rotate(90 5955,2112.8)" text-rendering="optimizeSpeed" fill="#000000">2.43 (234)</text>
-  <rect fill="blue" height="45.2" stroke="black" width="12" x="5970" y="2062.6"/>
-  <text x="5970" y="2112.8" font-family="Tahoma" font-size="12" transform="rotate(90 5970,2112.8)" text-rendering="optimizeSpeed" fill="#000000">2.44 (452)</text>
-  <rect fill="blue" height="73.4" stroke="black" width="12" x="5985" y="2034.4"/>
-  <text x="5985" y="2112.8" font-family="Tahoma" font-size="12" transform="rotate(90 5985,2112.8)" text-rendering="optimizeSpeed" fill="#000000">2.45 (734)</text>
-  <rect fill="blue" height="63.7" stroke="black" width="12" x="6000" y="2044.1"/>
-  <text x="6000" y="2112.8" font-family="Tahoma" font-size="12" transform="rotate(90 6000,2112.8)" text-rendering="optimizeSpeed" fill="#000000">2.46 (637)</text>
-  <rect fill="blue" height="682.1" stroke="black" width="12" x="6015" y="1425.7"/>
-  <text x="6015" y="2112.8" font-family="Tahoma" font-size="12" transform="rotate(90 6015,2112.8)" text-rendering="optimizeSpeed" fill="#000000">2.46.1 (6821)</text>
-  <rect fill="blue" height="2057.8" stroke="black" width="12" x="6030" y="50.0"/>
-  <text x="6030" y="2112.8" font-family="Tahoma" font-size="12" transform="rotate(90 6030,2112.8)" text-rendering="optimizeSpeed" fill="#000000">2.46.2 (20578)</text>
-  <rect fill="blue" height="408.0" stroke="black" width="12" x="6045" y="1699.8"/>
-  <text x="6045" y="2112.8" font-family="Tahoma" font-size="12" transform="rotate(90 6045,2112.8)" text-rendering="optimizeSpeed" fill="#000000">2.46.3 (4080)</text>
-  <rect fill="blue" height="69.5" stroke="black" width="12" x="6060" y="2038.3"/>
-  <text x="6060" y="2112.8" font-family="Tahoma" font-size="12" transform="rotate(90 6060,2112.8)" text-rendering="optimizeSpeed" fill="#000000">2.47 (695)</text>
-  <rect fill="blue" height="86.2" stroke="black" width="12" x="6075" y="2021.6"/>
-  <text x="6075" y="2112.8" font-family="Tahoma" font-size="12" transform="rotate(90 6075,2112.8)" text-rendering="optimizeSpeed" fill="#000000">2.48 (862)</text>
-  <rect fill="blue" height="73.9" stroke="black" width="12" x="6090" y="2033.9"/>
-  <text x="6090" y="2112.8" font-family="Tahoma" font-size="12" transform="rotate(90 6090,2112.8)" text-rendering="optimizeSpeed" fill="#000000">2.49 (739)</text>
-  <rect fill="blue" height="83.9" stroke="black" width="12" x="6105" y="2023.9"/>
-  <text x="6105" y="2112.8" font-family="Tahoma" font-size="12" transform="rotate(90 6105,2112.8)" text-rendering="optimizeSpeed" fill="#000000">2.50 (839)</text>
-  <rect fill="blue" height="97.8" stroke="black" width="12" x="6120" y="2010.0"/>
-  <text x="6120" y="2112.8" font-family="Tahoma" font-size="12" transform="rotate(90 6120,2112.8)" text-rendering="optimizeSpeed" fill="#000000">2.51 (978)</text>
-  <rect fill="blue" height="106.4" stroke="black" width="12" x="6135" y="2001.4"/>
-  <text x="6135" y="2112.8" font-family="Tahoma" font-size="12" transform="rotate(90 6135,2112.8)" text-rendering="optimizeSpeed" fill="#000000">2.52 (1064)</text>
-  <rect fill="blue" height="169.6" stroke="black" width="12" x="6150" y="1938.2"/>
-  <text x="6150" y="2112.8" font-family="Tahoma" font-size="12" transform="rotate(90 6150,2112.8)" text-rendering="optimizeSpeed" fill="#000000">2.53 (1696)</text>
-  <rect fill="blue" height="78.3" stroke="black" width="12" x="6165" y="2029.5"/>
-  <text x="6165" y="2112.8" font-family="Tahoma" font-size="12" transform="rotate(90 6165,2112.8)" text-rendering="optimizeSpeed" fill="#000000">2.54 (783)</text>
-  <rect fill="blue" height="104.7" stroke="black" width="12" x="6180" y="2003.1"/>
-  <text x="6180" y="2112.8" font-family="Tahoma" font-size="12" transform="rotate(90 6180,2112.8)" text-rendering="optimizeSpeed" fill="#000000">2.55 (1047)</text>
-  <rect fill="blue" height="69.1" stroke="black" width="12" x="6195" y="2038.7"/>
-  <text x="6195" y="2112.8" font-family="Tahoma" font-size="12" transform="rotate(90 6195,2112.8)" text-rendering="optimizeSpeed" fill="#000000">2.56 (691)</text>
-  <rect fill="blue" height="106.6" stroke="black" width="12" x="6210" y="2001.2"/>
-  <text x="6210" y="2112.8" font-family="Tahoma" font-size="12" transform="rotate(90 6210,2112.8)" text-rendering="optimizeSpeed" fill="#000000">2.57 (1066)</text>
-  <rect fill="blue" height="247.0" stroke="black" width="12" x="6225" y="1860.8"/>
-  <text x="6225" y="2112.8" font-family="Tahoma" font-size="12" transform="rotate(90 6225,2112.8)" text-rendering="optimizeSpeed" fill="#000000">2.58 (2470)</text>
-  <rect fill="blue" height="135.9" stroke="black" width="12" x="6240" y="1971.9"/>
-  <text x="6240" y="2112.8" font-family="Tahoma" font-size="12" transform="rotate(90 6240,2112.8)" text-rendering="optimizeSpeed" fill="#000000">2.59 (1359)</text>
-  <rect fill="blue" height="144.4" stroke="black" width="12" x="6255" y="1963.4"/>
-  <text x="6255" y="2112.8" font-family="Tahoma" font-size="12" transform="rotate(90 6255,2112.8)" text-rendering="optimizeSpeed" fill="#000000">2.60 (1444)</text>
-  <rect fill="blue" height="350.9" stroke="black" width="12" x="6270" y="1756.9"/>
-  <text x="6270" y="2112.8" font-family="Tahoma" font-size="12" transform="rotate(90 6270,2112.8)" text-rendering="optimizeSpeed" fill="#000000">2.61 (3509)</text>
-  <rect fill="blue" height="381.0" stroke="black" width="12" x="6285" y="1726.8"/>
-  <text x="6285" y="2112.8" font-family="Tahoma" font-size="12" transform="rotate(90 6285,2112.8)" text-rendering="optimizeSpeed" fill="#000000">2.62 (3810)</text>
-  <rect fill="blue" height="0.1" stroke="black" width="12" x="6300" y="2107.7"/>
-  <text x="6300" y="2112.8" font-family="Tahoma" font-size="12" transform="rotate(90 6300,2112.8)" text-rendering="optimizeSpeed" fill="#000000">2.63-ialbors (1)</text>
-  <rect fill="blue" height="243.5" stroke="black" width="12" x="6315" y="1864.3"/>
-  <text x="6315" y="2112.8" font-family="Tahoma" font-size="12" transform="rotate(90 6315,2112.8)" text-rendering="optimizeSpeed" fill="#000000">2.63 (2435)</text>
+  <rect fill="blue" height="24.6" stroke="black" width="12" x="4905" y="2083.2"/>
+  <text x="4905" y="2112.8" font-family="Tahoma" font-size="12" transform="rotate(90 4905,2112.8)" text-rendering="optimizeSpeed" fill="#000000">2.2 (246)</text>
+  <rect fill="blue" height="28.2" stroke="black" width="12" x="4920" y="2079.6"/>
+  <text x="4920" y="2112.8" font-family="Tahoma" font-size="12" transform="rotate(90 4920,2112.8)" text-rendering="optimizeSpeed" fill="#000000">2.3 (282)</text>
+  <rect fill="blue" height="7.1" stroke="black" width="12" x="4935" y="2100.7"/>
+  <text x="4935" y="2112.8" font-family="Tahoma" font-size="12" transform="rotate(90 4935,2112.8)" text-rendering="optimizeSpeed" fill="#000000">2.4 (71)</text>
+  <rect fill="blue" height="30.5" stroke="black" width="12" x="4950" y="2077.3"/>
+  <text x="4950" y="2112.8" font-family="Tahoma" font-size="12" transform="rotate(90 4950,2112.8)" text-rendering="optimizeSpeed" fill="#000000">2.5 (305)</text>
+  <rect fill="blue" height="39.1" stroke="black" width="12" x="4965" y="2068.7"/>
+  <text x="4965" y="2112.8" font-family="Tahoma" font-size="12" transform="rotate(90 4965,2112.8)" text-rendering="optimizeSpeed" fill="#000000">2.6 (391)</text>
+  <rect fill="blue" height="53.9" stroke="black" width="12" x="4980" y="2053.9"/>
+  <text x="4980" y="2112.8" font-family="Tahoma" font-size="12" transform="rotate(90 4980,2112.8)" text-rendering="optimizeSpeed" fill="#000000">2.7 (539)</text>
+  <rect fill="blue" height="185.1" stroke="black" width="12" x="4995" y="1922.7"/>
+  <text x="4995" y="2112.8" font-family="Tahoma" font-size="12" transform="rotate(90 4995,2112.8)" text-rendering="optimizeSpeed" fill="#000000">2.7.1 (1851)</text>
+  <rect fill="blue" height="0.1" stroke="black" width="12" x="5010" y="2107.7"/>
+  <text x="5010" y="2112.8" font-family="Tahoma" font-size="12" transform="rotate(90 5010,2112.8)" text-rendering="optimizeSpeed" fill="#000000">2.7.2-continental (1)</text>
+  <rect fill="blue" height="177.0" stroke="black" width="12" x="5025" y="1930.8"/>
+  <text x="5025" y="2112.8" font-family="Tahoma" font-size="12" transform="rotate(90 5025,2112.8)" text-rendering="optimizeSpeed" fill="#000000">2.7.2 (1770)</text>
+  <rect fill="blue" height="72.4" stroke="black" width="12" x="5040" y="2035.4"/>
+  <text x="5040" y="2112.8" font-family="Tahoma" font-size="12" transform="rotate(90 5040,2112.8)" text-rendering="optimizeSpeed" fill="#000000">2.7.3 (724)</text>
+  <rect fill="blue" height="272.4" stroke="black" width="12" x="5055" y="1835.4"/>
+  <text x="5055" y="2112.8" font-family="Tahoma" font-size="12" transform="rotate(90 5055,2112.8)" text-rendering="optimizeSpeed" fill="#000000">2.7.4 (2724)</text>
+  <rect fill="blue" height="0.5" stroke="black" width="12" x="5070" y="2107.3"/>
+  <text x="5070" y="2112.8" font-family="Tahoma" font-size="12" transform="rotate(90 5070,2112.8)" text-rendering="optimizeSpeed" fill="#000000">2.7.20 (5)</text>
+  <rect fill="blue" height="61.7" stroke="black" width="12" x="5085" y="2046.1"/>
+  <text x="5085" y="2112.8" font-family="Tahoma" font-size="12" transform="rotate(90 5085,2112.8)" text-rendering="optimizeSpeed" fill="#000000">2.8 (617)</text>
+  <rect fill="blue" height="72.5" stroke="black" width="12" x="5100" y="2035.3"/>
+  <text x="5100" y="2112.8" font-family="Tahoma" font-size="12" transform="rotate(90 5100,2112.8)" text-rendering="optimizeSpeed" fill="#000000">2.9 (725)</text>
+  <rect fill="blue" height="39.4" stroke="black" width="12" x="5115" y="2068.4"/>
+  <text x="5115" y="2112.8" font-family="Tahoma" font-size="12" transform="rotate(90 5115,2112.8)" text-rendering="optimizeSpeed" fill="#000000">2.10 (394)</text>
+  <rect fill="blue" height="47.5" stroke="black" width="12" x="5130" y="2060.3"/>
+  <text x="5130" y="2112.8" font-family="Tahoma" font-size="12" transform="rotate(90 5130,2112.8)" text-rendering="optimizeSpeed" fill="#000000">2.11 (475)</text>
+  <rect fill="blue" height="24.1" stroke="black" width="12" x="5145" y="2083.7"/>
+  <text x="5145" y="2112.8" font-family="Tahoma" font-size="12" transform="rotate(90 5145,2112.8)" text-rendering="optimizeSpeed" fill="#000000">2.12 (241)</text>
+  <rect fill="blue" height="32.1" stroke="black" width="12" x="5160" y="2075.7"/>
+  <text x="5160" y="2112.8" font-family="Tahoma" font-size="12" transform="rotate(90 5160,2112.8)" text-rendering="optimizeSpeed" fill="#000000">2.13 (321)</text>
+  <rect fill="blue" height="30.1" stroke="black" width="12" x="5175" y="2077.7"/>
+  <text x="5175" y="2112.8" font-family="Tahoma" font-size="12" transform="rotate(90 5175,2112.8)" text-rendering="optimizeSpeed" fill="#000000">2.14 (301)</text>
+  <rect fill="blue" height="29.5" stroke="black" width="12" x="5190" y="2078.3"/>
+  <text x="5190" y="2112.8" font-family="Tahoma" font-size="12" transform="rotate(90 5190,2112.8)" text-rendering="optimizeSpeed" fill="#000000">2.15 (295)</text>
+  <rect fill="blue" height="28.3" stroke="black" width="12" x="5205" y="2079.5"/>
+  <text x="5205" y="2112.8" font-family="Tahoma" font-size="12" transform="rotate(90 5205,2112.8)" text-rendering="optimizeSpeed" fill="#000000">2.16 (283)</text>
+  <rect fill="blue" height="35.5" stroke="black" width="12" x="5220" y="2072.3"/>
+  <text x="5220" y="2112.8" font-family="Tahoma" font-size="12" transform="rotate(90 5220,2112.8)" text-rendering="optimizeSpeed" fill="#000000">2.17 (355)</text>
+  <rect fill="blue" height="22.4" stroke="black" width="12" x="5235" y="2085.4"/>
+  <text x="5235" y="2112.8" font-family="Tahoma" font-size="12" transform="rotate(90 5235,2112.8)" text-rendering="optimizeSpeed" fill="#000000">2.18 (224)</text>
+  <rect fill="blue" height="37.3" stroke="black" width="12" x="5250" y="2070.5"/>
+  <text x="5250" y="2112.8" font-family="Tahoma" font-size="12" transform="rotate(90 5250,2112.8)" text-rendering="optimizeSpeed" fill="#000000">2.19 (373)</text>
+  <rect fill="blue" height="224.2" stroke="black" width="12" x="5265" y="1883.6"/>
+  <text x="5265" y="2112.8" font-family="Tahoma" font-size="12" transform="rotate(90 5265,2112.8)" text-rendering="optimizeSpeed" fill="#000000">2.19.1 (2242)</text>
+  <rect fill="blue" height="116.2" stroke="black" width="12" x="5280" y="1991.6"/>
+  <text x="5280" y="2112.8" font-family="Tahoma" font-size="12" transform="rotate(90 5280,2112.8)" text-rendering="optimizeSpeed" fill="#000000">2.19.2 (1162)</text>
+  <rect fill="blue" height="117.2" stroke="black" width="12" x="5295" y="1990.6"/>
+  <text x="5295" y="2112.8" font-family="Tahoma" font-size="12" transform="rotate(90 5295,2112.8)" text-rendering="optimizeSpeed" fill="#000000">2.19.3 (1172)</text>
+  <rect fill="blue" height="2.0" stroke="black" width="12" x="5310" y="2105.8"/>
+  <text x="5310" y="2112.8" font-family="Tahoma" font-size="12" transform="rotate(90 5310,2112.8)" text-rendering="optimizeSpeed" fill="#000000">2.19.3.1-rolling (20)</text>
+  <rect fill="blue" height="266.2" stroke="black" width="12" x="5325" y="1841.6"/>
+  <text x="5325" y="2112.8" font-family="Tahoma" font-size="12" transform="rotate(90 5325,2112.8)" text-rendering="optimizeSpeed" fill="#000000">2.19.4 (2662)</text>
+  <rect fill="blue" height="0.1" stroke="black" width="12" x="5340" y="2107.7"/>
+  <text x="5340" y="2112.8" font-family="Tahoma" font-size="12" transform="rotate(90 5340,2112.8)" text-rendering="optimizeSpeed" fill="#000000">2.19.4.1 (1)</text>
+  <rect fill="blue" height="6.7" stroke="black" width="12" x="5355" y="2101.1"/>
+  <text x="5355" y="2112.8" font-family="Tahoma" font-size="12" transform="rotate(90 5355,2112.8)" text-rendering="optimizeSpeed" fill="#000000">2.19.4.2-rolling (67)</text>
+  <rect fill="blue" height="31.4" stroke="black" width="12" x="5370" y="2076.4"/>
+  <text x="5370" y="2112.8" font-family="Tahoma" font-size="12" transform="rotate(90 5370,2112.8)" text-rendering="optimizeSpeed" fill="#000000">2.20 (314)</text>
+  <rect fill="blue" height="30.5" stroke="black" width="12" x="5385" y="2077.3"/>
+  <text x="5385" y="2112.8" font-family="Tahoma" font-size="12" transform="rotate(90 5385,2112.8)" text-rendering="optimizeSpeed" fill="#000000">2.21 (305)</text>
+  <rect fill="blue" height="30.2" stroke="black" width="12" x="5400" y="2077.6"/>
+  <text x="5400" y="2112.8" font-family="Tahoma" font-size="12" transform="rotate(90 5400,2112.8)" text-rendering="optimizeSpeed" fill="#000000">2.22 (302)</text>
+  <rect fill="blue" height="70.6" stroke="black" width="12" x="5415" y="2037.2"/>
+  <text x="5415" y="2112.8" font-family="Tahoma" font-size="12" transform="rotate(90 5415,2112.8)" text-rendering="optimizeSpeed" fill="#000000">2.23 (706)</text>
+  <rect fill="blue" height="24.5" stroke="black" width="12" x="5430" y="2083.3"/>
+  <text x="5430" y="2112.8" font-family="Tahoma" font-size="12" transform="rotate(90 5430,2112.8)" text-rendering="optimizeSpeed" fill="#000000">2.24 (245)</text>
+  <rect fill="blue" height="33.7" stroke="black" width="12" x="5445" y="2074.1"/>
+  <text x="5445" y="2112.8" font-family="Tahoma" font-size="12" transform="rotate(90 5445,2112.8)" text-rendering="optimizeSpeed" fill="#000000">2.25 (337)</text>
+  <rect fill="blue" height="33.9" stroke="black" width="12" x="5460" y="2073.9"/>
+  <text x="5460" y="2112.8" font-family="Tahoma" font-size="12" transform="rotate(90 5460,2112.8)" text-rendering="optimizeSpeed" fill="#000000">2.26 (339)</text>
+  <rect fill="blue" height="47.1" stroke="black" width="12" x="5475" y="2060.7"/>
+  <text x="5475" y="2112.8" font-family="Tahoma" font-size="12" transform="rotate(90 5475,2112.8)" text-rendering="optimizeSpeed" fill="#000000">2.27 (471)</text>
+  <rect fill="blue" height="27.0" stroke="black" width="12" x="5490" y="2080.8"/>
+  <text x="5490" y="2112.8" font-family="Tahoma" font-size="12" transform="rotate(90 5490,2112.8)" text-rendering="optimizeSpeed" fill="#000000">2.28 (270)</text>
+  <rect fill="blue" height="6.5" stroke="black" width="12" x="5505" y="2101.3"/>
+  <text x="5505" y="2112.8" font-family="Tahoma" font-size="12" transform="rotate(90 5505,2112.8)" text-rendering="optimizeSpeed" fill="#000000">2.29 (65)</text>
+  <rect fill="blue" height="45.1" stroke="black" width="12" x="5520" y="2062.7"/>
+  <text x="5520" y="2112.8" font-family="Tahoma" font-size="12" transform="rotate(90 5520,2112.8)" text-rendering="optimizeSpeed" fill="#000000">2.30 (451)</text>
+  <rect fill="blue" height="12.9" stroke="black" width="12" x="5535" y="2094.9"/>
+  <text x="5535" y="2112.8" font-family="Tahoma" font-size="12" transform="rotate(90 5535,2112.8)" text-rendering="optimizeSpeed" fill="#000000">2.31 (129)</text>
+  <rect fill="blue" height="30.8" stroke="black" width="12" x="5550" y="2077.0"/>
+  <text x="5550" y="2112.8" font-family="Tahoma" font-size="12" transform="rotate(90 5550,2112.8)" text-rendering="optimizeSpeed" fill="#000000">2.32 (308)</text>
+  <rect fill="blue" height="324.8" stroke="black" width="12" x="5565" y="1783.0"/>
+  <text x="5565" y="2112.8" font-family="Tahoma" font-size="12" transform="rotate(90 5565,2112.8)" text-rendering="optimizeSpeed" fill="#000000">2.32.1 (3248)</text>
+  <rect fill="blue" height="2.6" stroke="black" width="12" x="5580" y="2105.2"/>
+  <text x="5580" y="2112.8" font-family="Tahoma" font-size="12" transform="rotate(90 5580,2112.8)" text-rendering="optimizeSpeed" fill="#000000">2.32.1.1-rolling (26)</text>
+  <rect fill="blue" height="381.0" stroke="black" width="12" x="5595" y="1726.8"/>
+  <text x="5595" y="2112.8" font-family="Tahoma" font-size="12" transform="rotate(90 5595,2112.8)" text-rendering="optimizeSpeed" fill="#000000">2.32.2 (3810)</text>
+  <rect fill="blue" height="1.2" stroke="black" width="12" x="5610" y="2106.6"/>
+  <text x="5610" y="2112.8" font-family="Tahoma" font-size="12" transform="rotate(90 5610,2112.8)" text-rendering="optimizeSpeed" fill="#000000">2.32.2.1 (12)</text>
+  <rect fill="blue" height="6.8" stroke="black" width="12" x="5625" y="2101.0"/>
+  <text x="5625" y="2112.8" font-family="Tahoma" font-size="12" transform="rotate(90 5625,2112.8)" text-rendering="optimizeSpeed" fill="#000000">2.32.2.1-rolling (68)</text>
+  <rect fill="blue" height="4.5" stroke="black" width="12" x="5640" y="2103.3"/>
+  <text x="5640" y="2112.8" font-family="Tahoma" font-size="12" transform="rotate(90 5640,2112.8)" text-rendering="optimizeSpeed" fill="#000000">2.32.2.6 (45)</text>
+  <rect fill="blue" height="2.2" stroke="black" width="12" x="5655" y="2105.6"/>
+  <text x="5655" y="2112.8" font-family="Tahoma" font-size="12" transform="rotate(90 5655,2112.8)" text-rendering="optimizeSpeed" fill="#000000">2.32.2.6-rolling (22)</text>
+  <rect fill="blue" height="4.0" stroke="black" width="12" x="5670" y="2103.8"/>
+  <text x="5670" y="2112.8" font-family="Tahoma" font-size="12" transform="rotate(90 5670,2112.8)" text-rendering="optimizeSpeed" fill="#000000">2.32.2.7 (40)</text>
+  <rect fill="blue" height="1.2" stroke="black" width="12" x="5685" y="2106.6"/>
+  <text x="5685" y="2112.8" font-family="Tahoma" font-size="12" transform="rotate(90 5685,2112.8)" text-rendering="optimizeSpeed" fill="#000000">2.32.2.7-rolling (12)</text>
+  <rect fill="blue" height="0.1" stroke="black" width="12" x="5700" y="2107.7"/>
+  <text x="5700" y="2112.8" font-family="Tahoma" font-size="12" transform="rotate(90 5700,2112.8)" text-rendering="optimizeSpeed" fill="#000000">2.32.3-INFONOVA-1 (1)</text>
+  <rect fill="blue" height="482.3" stroke="black" width="12" x="5715" y="1625.5"/>
+  <text x="5715" y="2112.8" font-family="Tahoma" font-size="12" transform="rotate(90 5715,2112.8)" text-rendering="optimizeSpeed" fill="#000000">2.32.3 (4823)</text>
+  <rect fill="blue" height="6.1" stroke="black" width="12" x="5730" y="2101.7"/>
+  <text x="5730" y="2112.8" font-family="Tahoma" font-size="12" transform="rotate(90 5730,2112.8)" text-rendering="optimizeSpeed" fill="#000000">2.32.3.1 (61)</text>
+  <rect fill="blue" height="3.8" stroke="black" width="12" x="5745" y="2104.0"/>
+  <text x="5745" y="2112.8" font-family="Tahoma" font-size="12" transform="rotate(90 5745,2112.8)" text-rendering="optimizeSpeed" fill="#000000">2.32.3.2 (38)</text>
+  <rect fill="blue" height="41.1" stroke="black" width="12" x="5760" y="2066.7"/>
+  <text x="5760" y="2112.8" font-family="Tahoma" font-size="12" transform="rotate(90 5760,2112.8)" text-rendering="optimizeSpeed" fill="#000000">2.33 (411)</text>
+  <rect fill="blue" height="46.5" stroke="black" width="12" x="5775" y="2061.3"/>
+  <text x="5775" y="2112.8" font-family="Tahoma" font-size="12" transform="rotate(90 5775,2112.8)" text-rendering="optimizeSpeed" fill="#000000">2.34 (465)</text>
+  <rect fill="blue" height="51.2" stroke="black" width="12" x="5790" y="2056.6"/>
+  <text x="5790" y="2112.8" font-family="Tahoma" font-size="12" transform="rotate(90 5790,2112.8)" text-rendering="optimizeSpeed" fill="#000000">2.35 (512)</text>
+  <rect fill="blue" height="42.3" stroke="black" width="12" x="5805" y="2065.5"/>
+  <text x="5805" y="2112.8" font-family="Tahoma" font-size="12" transform="rotate(90 5805,2112.8)" text-rendering="optimizeSpeed" fill="#000000">2.36 (423)</text>
+  <rect fill="blue" height="50.5" stroke="black" width="12" x="5820" y="2057.3"/>
+  <text x="5820" y="2112.8" font-family="Tahoma" font-size="12" transform="rotate(90 5820,2112.8)" text-rendering="optimizeSpeed" fill="#000000">2.37 (505)</text>
+  <rect fill="blue" height="44.3" stroke="black" width="12" x="5835" y="2063.5"/>
+  <text x="5835" y="2112.8" font-family="Tahoma" font-size="12" transform="rotate(90 5835,2112.8)" text-rendering="optimizeSpeed" fill="#000000">2.38 (443)</text>
+  <rect fill="blue" height="58.5" stroke="black" width="12" x="5850" y="2049.3"/>
+  <text x="5850" y="2112.8" font-family="Tahoma" font-size="12" transform="rotate(90 5850,2112.8)" text-rendering="optimizeSpeed" fill="#000000">2.39 (585)</text>
+  <rect fill="blue" height="60.5" stroke="black" width="12" x="5865" y="2047.3"/>
+  <text x="5865" y="2112.8" font-family="Tahoma" font-size="12" transform="rotate(90 5865,2112.8)" text-rendering="optimizeSpeed" fill="#000000">2.40 (605)</text>
+  <rect fill="blue" height="49.4" stroke="black" width="12" x="5880" y="2058.4"/>
+  <text x="5880" y="2112.8" font-family="Tahoma" font-size="12" transform="rotate(90 5880,2112.8)" text-rendering="optimizeSpeed" fill="#000000">2.41 (494)</text>
+  <rect fill="blue" height="41.6" stroke="black" width="12" x="5895" y="2066.2"/>
+  <text x="5895" y="2112.8" font-family="Tahoma" font-size="12" transform="rotate(90 5895,2112.8)" text-rendering="optimizeSpeed" fill="#000000">2.42 (416)</text>
+  <rect fill="blue" height="23.4" stroke="black" width="12" x="5910" y="2084.4"/>
+  <text x="5910" y="2112.8" font-family="Tahoma" font-size="12" transform="rotate(90 5910,2112.8)" text-rendering="optimizeSpeed" fill="#000000">2.43 (234)</text>
+  <rect fill="blue" height="45.2" stroke="black" width="12" x="5925" y="2062.6"/>
+  <text x="5925" y="2112.8" font-family="Tahoma" font-size="12" transform="rotate(90 5925,2112.8)" text-rendering="optimizeSpeed" fill="#000000">2.44 (452)</text>
+  <rect fill="blue" height="73.4" stroke="black" width="12" x="5940" y="2034.4"/>
+  <text x="5940" y="2112.8" font-family="Tahoma" font-size="12" transform="rotate(90 5940,2112.8)" text-rendering="optimizeSpeed" fill="#000000">2.45 (734)</text>
+  <rect fill="blue" height="63.7" stroke="black" width="12" x="5955" y="2044.1"/>
+  <text x="5955" y="2112.8" font-family="Tahoma" font-size="12" transform="rotate(90 5955,2112.8)" text-rendering="optimizeSpeed" fill="#000000">2.46 (637)</text>
+  <rect fill="blue" height="682.1" stroke="black" width="12" x="5970" y="1425.7"/>
+  <text x="5970" y="2112.8" font-family="Tahoma" font-size="12" transform="rotate(90 5970,2112.8)" text-rendering="optimizeSpeed" fill="#000000">2.46.1 (6821)</text>
+  <rect fill="blue" height="2057.8" stroke="black" width="12" x="5985" y="50.0"/>
+  <text x="5985" y="2112.8" font-family="Tahoma" font-size="12" transform="rotate(90 5985,2112.8)" text-rendering="optimizeSpeed" fill="#000000">2.46.2 (20578)</text>
+  <rect fill="blue" height="29.1" stroke="black" width="12" x="6000" y="2078.7"/>
+  <text x="6000" y="2112.8" font-family="Tahoma" font-size="12" transform="rotate(90 6000,2112.8)" text-rendering="optimizeSpeed" fill="#000000">2.46.2.1 (291)</text>
+  <rect fill="blue" height="408.0" stroke="black" width="12" x="6015" y="1699.8"/>
+  <text x="6015" y="2112.8" font-family="Tahoma" font-size="12" transform="rotate(90 6015,2112.8)" text-rendering="optimizeSpeed" fill="#000000">2.46.3 (4080)</text>
+  <rect fill="blue" height="0.3" stroke="black" width="12" x="6030" y="2107.5"/>
+  <text x="6030" y="2112.8" font-family="Tahoma" font-size="12" transform="rotate(90 6030,2112.8)" text-rendering="optimizeSpeed" fill="#000000">2.46.3.1 (3)</text>
+  <rect fill="blue" height="69.5" stroke="black" width="12" x="6045" y="2038.3"/>
+  <text x="6045" y="2112.8" font-family="Tahoma" font-size="12" transform="rotate(90 6045,2112.8)" text-rendering="optimizeSpeed" fill="#000000">2.47 (695)</text>
+  <rect fill="blue" height="86.2" stroke="black" width="12" x="6060" y="2021.6"/>
+  <text x="6060" y="2112.8" font-family="Tahoma" font-size="12" transform="rotate(90 6060,2112.8)" text-rendering="optimizeSpeed" fill="#000000">2.48 (862)</text>
+  <rect fill="blue" height="73.9" stroke="black" width="12" x="6075" y="2033.9"/>
+  <text x="6075" y="2112.8" font-family="Tahoma" font-size="12" transform="rotate(90 6075,2112.8)" text-rendering="optimizeSpeed" fill="#000000">2.49 (739)</text>
+  <rect fill="blue" height="83.9" stroke="black" width="12" x="6090" y="2023.9"/>
+  <text x="6090" y="2112.8" font-family="Tahoma" font-size="12" transform="rotate(90 6090,2112.8)" text-rendering="optimizeSpeed" fill="#000000">2.50 (839)</text>
+  <rect fill="blue" height="97.8" stroke="black" width="12" x="6105" y="2010.0"/>
+  <text x="6105" y="2112.8" font-family="Tahoma" font-size="12" transform="rotate(90 6105,2112.8)" text-rendering="optimizeSpeed" fill="#000000">2.51 (978)</text>
+  <rect fill="blue" height="106.4" stroke="black" width="12" x="6120" y="2001.4"/>
+  <text x="6120" y="2112.8" font-family="Tahoma" font-size="12" transform="rotate(90 6120,2112.8)" text-rendering="optimizeSpeed" fill="#000000">2.52 (1064)</text>
+  <rect fill="blue" height="169.6" stroke="black" width="12" x="6135" y="1938.2"/>
+  <text x="6135" y="2112.8" font-family="Tahoma" font-size="12" transform="rotate(90 6135,2112.8)" text-rendering="optimizeSpeed" fill="#000000">2.53 (1696)</text>
+  <rect fill="blue" height="78.3" stroke="black" width="12" x="6150" y="2029.5"/>
+  <text x="6150" y="2112.8" font-family="Tahoma" font-size="12" transform="rotate(90 6150,2112.8)" text-rendering="optimizeSpeed" fill="#000000">2.54 (783)</text>
+  <rect fill="blue" height="104.7" stroke="black" width="12" x="6165" y="2003.1"/>
+  <text x="6165" y="2112.8" font-family="Tahoma" font-size="12" transform="rotate(90 6165,2112.8)" text-rendering="optimizeSpeed" fill="#000000">2.55 (1047)</text>
+  <rect fill="blue" height="69.1" stroke="black" width="12" x="6180" y="2038.7"/>
+  <text x="6180" y="2112.8" font-family="Tahoma" font-size="12" transform="rotate(90 6180,2112.8)" text-rendering="optimizeSpeed" fill="#000000">2.56 (691)</text>
+  <rect fill="blue" height="106.6" stroke="black" width="12" x="6195" y="2001.2"/>
+  <text x="6195" y="2112.8" font-family="Tahoma" font-size="12" transform="rotate(90 6195,2112.8)" text-rendering="optimizeSpeed" fill="#000000">2.57 (1066)</text>
+  <rect fill="blue" height="247.0" stroke="black" width="12" x="6210" y="1860.8"/>
+  <text x="6210" y="2112.8" font-family="Tahoma" font-size="12" transform="rotate(90 6210,2112.8)" text-rendering="optimizeSpeed" fill="#000000">2.58 (2470)</text>
+  <rect fill="blue" height="135.9" stroke="black" width="12" x="6225" y="1971.9"/>
+  <text x="6225" y="2112.8" font-family="Tahoma" font-size="12" transform="rotate(90 6225,2112.8)" text-rendering="optimizeSpeed" fill="#000000">2.59 (1359)</text>
+  <rect fill="blue" height="144.4" stroke="black" width="12" x="6240" y="1963.4"/>
+  <text x="6240" y="2112.8" font-family="Tahoma" font-size="12" transform="rotate(90 6240,2112.8)" text-rendering="optimizeSpeed" fill="#000000">2.60 (1444)</text>
+  <rect fill="blue" height="350.9" stroke="black" width="12" x="6255" y="1756.9"/>
+  <text x="6255" y="2112.8" font-family="Tahoma" font-size="12" transform="rotate(90 6255,2112.8)" text-rendering="optimizeSpeed" fill="#000000">2.61 (3509)</text>
+  <rect fill="blue" height="381.0" stroke="black" width="12" x="6270" y="1726.8"/>
+  <text x="6270" y="2112.8" font-family="Tahoma" font-size="12" transform="rotate(90 6270,2112.8)" text-rendering="optimizeSpeed" fill="#000000">2.62 (3810)</text>
+  <rect fill="blue" height="0.1" stroke="black" width="12" x="6285" y="2107.7"/>
+  <text x="6285" y="2112.8" font-family="Tahoma" font-size="12" transform="rotate(90 6285,2112.8)" text-rendering="optimizeSpeed" fill="#000000">2.63-ialbors (1)</text>
+  <rect fill="blue" height="243.5" stroke="black" width="12" x="6300" y="1864.3"/>
+  <text x="6300" y="2112.8" font-family="Tahoma" font-size="12" transform="rotate(90 6300,2112.8)" text-rendering="optimizeSpeed" fill="#000000">2.63 (2435)</text>
+  <rect fill="blue" height="0.1" stroke="black" width="12" x="6315" y="2107.7"/>
+  <text x="6315" y="2112.8" font-family="Tahoma" font-size="12" transform="rotate(90 6315,2112.8)" text-rendering="optimizeSpeed" fill="#000000">2.7.2.1 (1)</text>
   <rect fill="blue" height="0.5" stroke="black" width="12" x="6330" y="2107.3"/>
   <text x="6330" y="2112.8" font-family="Tahoma" font-size="12" transform="rotate(90 6330,2112.8)" text-rendering="optimizeSpeed" fill="#000000">2.7.22.0.3 (5)</text>
   <rect fill="blue" height="0.4" stroke="black" width="12" x="6345" y="2107.4"/>
