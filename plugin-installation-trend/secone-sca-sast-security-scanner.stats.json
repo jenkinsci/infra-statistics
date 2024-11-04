@@ -1,0 +1,11 @@
+{
+    "name": "secone-sca-sast-security-scanner",
+    "installations": {
+        "1727740800000": 2
+    },
+    "installationsPercentage": {
+        "1727740800000": 0.0007210949
+    },
+    "installationsPerVersion": {},
+    "installationsPercentagePerVersion": {}
+}

@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" version="1.1" preserveAspectRatio="xMidYMid meet" viewBox="0 0 2855 35074.7">
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" preserveAspectRatio="xMidYMid meet" viewBox="0 0 2915 35074.7">
   <rect fill="blue" height="7.3" stroke="black" width="12" x="15" y="34767.4"/>
   <text x="15" y="34779.7" font-family="Tahoma" font-size="12" transform="rotate(90 15,34779.7)" text-rendering="optimizeSpeed" fill="#000000">200812 (7295)</text>
   <rect fill="blue" height="23.9" stroke="black" width="12" x="30" y="34750.8"/>
@@ -373,5 +373,13 @@
   <text x="2790" y="34779.7" font-family="Tahoma" font-size="12" transform="rotate(90 2790,34779.7)" text-rendering="optimizeSpeed" fill="#000000">202405 (31939074)</text>
   <rect fill="blue" height="31890.0" stroke="black" width="12" x="2805" y="2884.7"/>
   <text x="2805" y="34779.7" font-family="Tahoma" font-size="12" transform="rotate(90 2805,34779.7)" text-rendering="optimizeSpeed" fill="#000000">202406 (31890048)</text>
+  <rect fill="blue" height="32227.9" stroke="black" width="12" x="2820" y="2546.8"/>
+  <text x="2820" y="34779.7" font-family="Tahoma" font-size="12" transform="rotate(90 2820,34779.7)" text-rendering="optimizeSpeed" fill="#000000">202407 (32227926)</text>
+  <rect fill="blue" height="32023.3" stroke="black" width="12" x="2835" y="2751.5"/>
+  <text x="2835" y="34779.7" font-family="Tahoma" font-size="12" transform="rotate(90 2835,34779.7)" text-rendering="optimizeSpeed" fill="#000000">202408 (32023254)</text>
+  <rect fill="blue" height="31418.6" stroke="black" width="12" x="2850" y="3356.2"/>
+  <text x="2850" y="34779.7" font-family="Tahoma" font-size="12" transform="rotate(90 2850,34779.7)" text-rendering="optimizeSpeed" fill="#000000">202409 (31418581)</text>
+  <rect fill="blue" height="31518.6" stroke="black" width="12" x="2865" y="3256.2"/>
+  <text x="2865" y="34779.7" font-family="Tahoma" font-size="12" transform="rotate(90 2865,34779.7)" text-rendering="optimizeSpeed" fill="#000000">202410 (31518561)</text>
   <text x="10" y="40" font-family="Tahoma" font-size="20" text-rendering="optimizeSpeed" fill="#000000">Total Plugin installations</text>
 </svg>

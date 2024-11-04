@@ -533,10 +533,10 @@
   <text x="3990" y="1327.6" font-family="Tahoma" font-size="12" transform="rotate(90 3990,1327.6)" text-rendering="optimizeSpeed" fill="#000000">1.609 (824)</text>
   <rect fill="blue" height="105.5" stroke="black" width="12" x="4005" y="1217.1"/>
   <text x="4005" y="1327.6" font-family="Tahoma" font-size="12" transform="rotate(90 4005,1327.6)" text-rendering="optimizeSpeed" fill="#000000">1.609.1 (1055)</text>
-  <rect fill="blue" height="74.9" stroke="black" width="12" x="4020" y="1247.7"/>
-  <text x="4020" y="1327.6" font-family="Tahoma" font-size="12" transform="rotate(90 4020,1327.6)" text-rendering="optimizeSpeed" fill="#000000">1.609.2 (749)</text>
-  <rect fill="blue" height="0.1" stroke="black" width="12" x="4035" y="1322.5"/>
-  <text x="4035" y="1327.6" font-family="Tahoma" font-size="12" transform="rotate(90 4035,1327.6)" text-rendering="optimizeSpeed" fill="#000000">1.609.2+JENKINS-15331 (1)</text>
+  <rect fill="blue" height="0.1" stroke="black" width="12" x="4020" y="1322.5"/>
+  <text x="4020" y="1327.6" font-family="Tahoma" font-size="12" transform="rotate(90 4020,1327.6)" text-rendering="optimizeSpeed" fill="#000000">1.609.2+JENKINS-15331 (1)</text>
+  <rect fill="blue" height="74.9" stroke="black" width="12" x="4035" y="1247.7"/>
+  <text x="4035" y="1327.6" font-family="Tahoma" font-size="12" transform="rotate(90 4035,1327.6)" text-rendering="optimizeSpeed" fill="#000000">1.609.2 (749)</text>
   <rect fill="blue" height="141.4" stroke="black" width="12" x="4050" y="1181.2"/>
   <text x="4050" y="1327.6" font-family="Tahoma" font-size="12" transform="rotate(90 4050,1327.6)" text-rendering="optimizeSpeed" fill="#000000">1.609.3 (1414)</text>
   <rect fill="blue" height="0.1" stroke="black" width="12" x="4065" y="1322.5"/>

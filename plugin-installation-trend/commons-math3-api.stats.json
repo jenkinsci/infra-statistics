@@ -1,0 +1,15 @@
+{
+    "name": "commons-math3-api",
+    "installations": {
+        "1722470400000": 1,
+        "1725148800000": 3,
+        "1727740800000": 3
+    },
+    "installationsPercentage": {
+        "1722470400000": 0.00035217716,
+        "1725148800000": 0.0010829308,
+        "1727740800000": 0.0010816423
+    },
+    "installationsPerVersion": {},
+    "installationsPercentagePerVersion": {}
+}

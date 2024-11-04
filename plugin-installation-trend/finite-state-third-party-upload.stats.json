@@ -1,0 +1,15 @@
+{
+    "name": "finite-state-third-party-upload",
+    "installations": {
+        "1722470400000": 1,
+        "1725148800000": 1,
+        "1727740800000": 1
+    },
+    "installationsPercentage": {
+        "1722470400000": 0.00035217716,
+        "1725148800000": 0.00036097693,
+        "1727740800000": 0.00036054745
+    },
+    "installationsPerVersion": {},
+    "installationsPercentagePerVersion": {}
+}

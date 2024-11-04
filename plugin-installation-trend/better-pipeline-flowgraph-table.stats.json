@@ -1,0 +1,17 @@
+{
+    "name": "better-pipeline-flowgraph-table",
+    "installations": {
+        "1719792000000": 9,
+        "1722470400000": 16,
+        "1725148800000": 21,
+        "1727740800000": 28
+    },
+    "installationsPercentage": {
+        "1719792000000": 0.003146853,
+        "1722470400000": 0.0056348345,
+        "1725148800000": 0.007580516,
+        "1727740800000": 0.010095329
+    },
+    "installationsPerVersion": {},
+    "installationsPercentagePerVersion": {}
+}

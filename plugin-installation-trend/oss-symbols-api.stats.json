@@ -1,0 +1,15 @@
+{
+    "name": "oss-symbols-api",
+    "installations": {
+        "1722470400000": 1,
+        "1725148800000": 319,
+        "1727740800000": 464
+    },
+    "installationsPercentage": {
+        "1722470400000": 0.00035217716,
+        "1725148800000": 0.115151644,
+        "1727740800000": 0.16729403
+    },
+    "installationsPerVersion": {},
+    "installationsPercentagePerVersion": {}
+}

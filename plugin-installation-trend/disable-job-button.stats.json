@@ -1,0 +1,17 @@
+{
+    "name": "disable-job-button",
+    "installations": {
+        "1719792000000": 3,
+        "1722470400000": 173,
+        "1725148800000": 392,
+        "1727740800000": 588
+    },
+    "installationsPercentage": {
+        "1719792000000": 0.0010489511,
+        "1722470400000": 0.06092665,
+        "1725148800000": 0.14150296,
+        "1727740800000": 0.2120019
+    },
+    "installationsPerVersion": {},
+    "installationsPercentagePerVersion": {}
+}

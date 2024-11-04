@@ -1,0 +1,15 @@
+{
+    "name": "appcircle-enterprise-store",
+    "installations": {
+        "1722470400000": 2,
+        "1725148800000": 2,
+        "1727740800000": 1
+    },
+    "installationsPercentage": {
+        "1722470400000": 0.0007043543,
+        "1725148800000": 0.00072195387,
+        "1727740800000": 0.00036054745
+    },
+    "installationsPerVersion": {},
+    "installationsPercentagePerVersion": {}
+}
