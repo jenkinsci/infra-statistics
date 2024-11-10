@@ -79,10 +79,29 @@ class Generator {
         println "Done. Took ${(System.currentTimeMillis() - start)/1000} seconds."
 
         println "Sorting Jenkins versions... "
+        // comparator to sort string type versions as numeric order 
+        def semverComparator = { String version1, String version2 ->
+            def parseVersion = { version -> 
+                version.tokenize('.').collect { it as Integer }
+            }
+            def v1Parts = parseVersion(version1)
+            def v2Parts = parseVersion(version2)
+
+            for (int i = 0; i < Math.min(v1Parts.size(), v2Parts.size()); i++) {
+                int partComparison = v1Parts[i] <=> v2Parts[i]
+                if (partComparison != 0) return partComparison
+            }
+            return v1Parts.size() <=> v2Parts.size()
+        }
+
         nameVersionWithMinJenkinsVersion.each { pluginName, versionMap ->
             versionMap.each { version, jenkinsCountMap ->
                 nameVersionWithMinJenkinsVersion[pluginName][version] = new TreeMap(nameVersionWithMinJenkinsVersion[pluginName][version])
             }
+            // sorts string type versions as numeric order
+            def sortedVersionMap = new TreeMap(semverComparator)
+            sortedVersionMap.putAll(versionMap)
+            nameVersionWithMinJenkinsVersion[pluginName] = sortedVersionMap
 
         }
         println "Done."
